@@ -46,3 +46,12 @@ ul li a:hover {
     padding: 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+.social-icon {
+    font-size: 2rem;
+    color: #007bff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+.social-icon:hover {
+    color: #0056b3;
+}
